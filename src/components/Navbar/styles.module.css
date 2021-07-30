@@ -1,0 +1,15 @@
+.header{
+    height: 4rem;
+    border: 1px solid #3f51b5;
+    box-shadow: 0 0 5px #3f51b5;
+}
+.navbar{
+    display: flex;
+}
+.link{
+    display: inline-block;
+    margin-top: 10px;
+    padding-left: 30px;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
